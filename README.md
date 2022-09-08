@@ -12,12 +12,12 @@
 </br>
 
 <p align="center">
-  <img alt="Layout" src="">
+  <img alt="Layout" src="./images/layout.png">
 </p>
 
 ## 💇🏻‍♂️ About the project
 
-This app is the final result of the course **Ui Dev Classic React** which you can find [here](https://ui.dev/classic-react) 
+This app is the final result of the course **Ui Dev Classic React** which you can find [here](https://ui.dev/classic-react)
 
 ## 🚀 Technologies
 
